@@ -1,0 +1,15 @@
+G:\IUBAT\React Project\E-commerce\Persistence\bin\Debug\net6.0\Persistence.deps.json
+G:\IUBAT\React Project\E-commerce\Persistence\bin\Debug\net6.0\Persistence.dll
+G:\IUBAT\React Project\E-commerce\Persistence\bin\Debug\net6.0\Persistence.pdb
+G:\IUBAT\React Project\E-commerce\Persistence\bin\Debug\net6.0\Domain.dll
+G:\IUBAT\React Project\E-commerce\Persistence\bin\Debug\net6.0\Domain.pdb
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.dll
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\Persistence.pdb
+G:\IUBAT\React Project\E-commerce\Persistence\obj\Debug\net6.0\ref\Persistence.dll

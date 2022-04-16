@@ -1,0 +1,12 @@
+G:\IUBAT\React Project\E-commerce\Domain\bin\Debug\net6.0\Domain.deps.json
+G:\IUBAT\React Project\E-commerce\Domain\bin\Debug\net6.0\Domain.dll
+G:\IUBAT\React Project\E-commerce\Domain\bin\Debug\net6.0\Domain.pdb
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.dll
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\refint\Domain.dll
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\Domain.pdb
+G:\IUBAT\React Project\E-commerce\Domain\obj\Debug\net6.0\ref\Domain.dll
